@@ -3,6 +3,4 @@ function holaMundo() {
 }
 
 
-
-
 module.exports = holaMundo;
